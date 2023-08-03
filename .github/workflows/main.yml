@@ -22,4 +22,4 @@ jobs:
         echo "Hello World"
 
     - name: Run Python application
-      run: pythpn app.py
+      run: python app.py
